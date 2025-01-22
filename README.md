@@ -1,1 +1,1 @@
-# ideal-waddle
+# Laba 1
